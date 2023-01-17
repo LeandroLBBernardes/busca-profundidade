@@ -1,0 +1,14 @@
+C:\Users\Leandro\source\repos\BuscaEmProfundidade\BuscaEmProfundidade\bin\Debug\BuscaEmProfundidade.exe.config
+C:\Users\Leandro\source\repos\BuscaEmProfundidade\BuscaEmProfundidade\bin\Debug\BuscaEmProfundidade.exe
+C:\Users\Leandro\source\repos\BuscaEmProfundidade\BuscaEmProfundidade\bin\Debug\BuscaEmProfundidade.pdb
+C:\Users\Leandro\source\repos\BuscaEmProfundidade\BuscaEmProfundidade\obj\Debug\BuscaEmProfundidade.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\BuscaEmProfundidade\BuscaEmProfundidade\obj\Debug\BuscaEmProfundidade.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\BuscaEmProfundidade\BuscaEmProfundidade\obj\Debug\BuscaEmProfundidade.exe
+C:\Users\Leandro\source\repos\BuscaEmProfundidade\BuscaEmProfundidade\obj\Debug\BuscaEmProfundidade.pdb
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaEmProfundidade\BuscaEmProfundidade\bin\Debug\BuscaEmProfundidade.exe.config
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaEmProfundidade\BuscaEmProfundidade\bin\Debug\BuscaEmProfundidade.exe
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaEmProfundidade\BuscaEmProfundidade\bin\Debug\BuscaEmProfundidade.pdb
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaEmProfundidade\BuscaEmProfundidade\obj\Debug\BuscaEmProfundidade.csproj.AssemblyReference.cache
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaEmProfundidade\BuscaEmProfundidade\obj\Debug\BuscaEmProfundidade.csproj.CoreCompileInputs.cache
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaEmProfundidade\BuscaEmProfundidade\obj\Debug\BuscaEmProfundidade.exe
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaEmProfundidade\BuscaEmProfundidade\obj\Debug\BuscaEmProfundidade.pdb
